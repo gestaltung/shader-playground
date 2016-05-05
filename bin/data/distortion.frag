@@ -1,3 +1,6 @@
+// Adapted from RGB Shift Glitch by Eethe
+// https://www.shadertoy.com/view/4t23Rc
+
 #ifdef GL_ES
 precision mediump float;
 precision mediump int;
